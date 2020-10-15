@@ -1,1 +1,1 @@
-# activeLoopSwitch
+# ActiveLoopSwitch
